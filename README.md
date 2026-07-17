@@ -34,3 +34,7 @@ DOUBAO_SPEECH_API_KEY=your_doubao_speech_key
 Depending on the requested workflow, the skill can use Volcengine Ark/Seedance, Doubao Speech, OpenAI image generation, the jcaigc/capcut-mate draft API, and tmpfile.link. The skill requires explicit user consent before uploading local media to a third-party public host.
 
 The installable skill is located at [`skills/video-pipeline`](skills/video-pipeline).
+
+## License
+
+Released under the [MIT License](LICENSE).
