@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.private.json
+__pycache__/
+*.py[cod]
+videos/
+outputs/

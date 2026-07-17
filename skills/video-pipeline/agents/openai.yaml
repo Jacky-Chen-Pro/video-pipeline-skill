@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Pipeline"
+  short_description: "Build voice-led videos with Seedance and Jianying"
+  default_prompt: "Use $video-pipeline to turn a topic into a self-contained, voice-led video project with keyframes, Seedance clips, captions, and a Jianying draft."
